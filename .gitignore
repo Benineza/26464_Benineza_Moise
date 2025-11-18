@@ -1,0 +1,18 @@
+# Java / compilation
+*.class
+/bin/
+/out/
+
+# IDEs
+/.idea/
+/.vscode/
+*.iml
+*.class
+
+# OS
+.DS_Store
+Thumbs.db
+
+# build tools
+target/
+.gradle/
